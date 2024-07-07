@@ -1,0 +1,211 @@
+*{padding: 0; margin: 0;font-family: Arial;}
+:root {
+    --opacity: 1;
+    --primary: #274690;
+    --secondary: #F82249;
+    --white: #fff;
+    --black: #000;
+    --grey: #eee;
+}
+p{font-size: 19px}
+.text-primary{
+	color: var(--primary)!important;
+}
+.text-secondary{
+	color: var(--grey)!important;
+}
+.intro{
+	padding: 50px 0;
+}
+.footer{
+    padding: 50px 0 10px;
+    background: var(--black);
+}
+.ul_list li{
+    list-style: none;
+}
+.ul_list{
+    padding: 0;
+}
+.ul_list li a{
+    text-decoration: none;
+    color: var(--white);
+    transition-duration: .2s;
+}
+.ul_list li a:hover{
+    color: var(--primary);
+    transition-duration: .2s;
+    margin-left: 5px;
+}
+.footer-row-one{
+    border-bottom: 1px solid var(--grey);
+}
+.other-category{
+    padding: 50px 0;
+}
+.cat-image-box {
+    text-align: center;
+}
+.cat-image-box img {
+    background: linear-gradient(to right, #274690 0%, #0077B6 51%, #274690 100%);
+    padding: 10px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    transition-duration: .2s;
+}
+.cat-image-box a{
+    text-decoration: none;
+}
+.cat-image-box:hover a h5{
+   color: var(--secondary);
+   transition-duration: .2s;
+}
+.cat-image-box a h5{
+    color: var(--primary);
+    transition-duration: .2s;
+}
+.cat-image-box img:hover {
+    background:linear-gradient(to right, #a80404 0%, #f75472 51%, #98000f 100%);
+    transition-duration: .2s;
+}
+.escorts-list{
+    padding: 50px 0;
+    background: var(--grey);
+}
+.escorts-lising .main-image{
+    background: var(--white);
+    padding: 10px;
+    border-radius: 20px;
+}
+.image-box-with-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary);
+    gap: 10px;
+    padding: 15px 0;
+    margin: 0 20px;
+    margin-top: -30px;
+    z-index: 99;
+    position: relative;
+    border-radius: 20px;
+}
+.main-gallery-pop-table table tr:nth-child(odd) {
+    background: #eee;
+}
+.pop-up-table{
+    width: 100%;
+}
+.pop-up-table tr td{
+    padding: 10px;
+}
+.modal-header{
+    justify-content: space-between;
+}
+button.close {
+    padding: 10px 20px;
+    background: var(--primary);
+    border: 0;
+    color: #fff;
+}
+/* header */
+.header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.navbar-brand{
+    transition-duration: .2s;
+}
+.navbar-brand:hover {
+    color: var(--secondary);
+    transition-duration: .2s;
+}
+
+.nav-link {
+    color: var(--white);
+    font-weight: 600;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    color: var(--secondary);
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    --bs-dropdown-link-active-bg: rgba(var(--primary));
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    --bs-dropdown-link-hover-color: rgba(var(--white));
+    --bs-dropdown-link-hover-bg: rgba(var(--primary), var(--opacity));
+}
+.bgc-primary {
+    background-color: var(--primary);
+    padding: 10px 0;
+}
+.theme-btn i {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #006834;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 50%;
+    transition: all 900ms ease;
+}
+
+.fa-angle-right:after {
+    content: "\f105";
+}
+
+.theme-btn {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 17px;
+    padding: 12px 60px 11px 30px;
+    background: #fff;
+    line-height: 25px;
+    color: #006834;
+    border: 1px solid #006834;
+    font-weight: 500;
+    border-radius: 30px;
+    text-transform: capitalize;
+    transition: all 500ms ease;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.theme-btn:hover:after {
+    transform: scale(1, 1);
+    transform-origin: bottom left;
+}
+
+.theme-btn:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    content: "";
+    background-color: #006834;
+    border-radius: 30px;
+    transform: scale(0, 1);
+    transform-origin: top right;
+    transition: transform 500ms;
+}
+
+.theme-btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
