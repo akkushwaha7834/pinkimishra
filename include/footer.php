@@ -166,7 +166,7 @@
                      </tbody>
                   </table>
                   <div class="cta mt-3">
-                     <a href="#" class="theme-btn">Call Now <i class="fa fa-calendar" aria-hidden="true"></i></a>
+                     <a href="#" class="theme-btn">Call Now <i class="fa fa-phone" aria-hidden="true"></i></a>
                   </div>
                </div>
                    </div>

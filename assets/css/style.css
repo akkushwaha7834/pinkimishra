@@ -156,7 +156,7 @@ button.close {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #006834;
+    background: var(--primary);
     font-size: 17px;
     color: #fff;
     border-radius: 50%;
@@ -175,14 +175,15 @@ button.close {
     padding: 12px 60px 11px 30px;
     background: #fff;
     line-height: 25px;
-    color: #006834;
-    border: 1px solid #006834;
+    color: var(--primary);
+    border: 1px solid var(--primary);
     font-weight: 500;
     border-radius: 30px;
     text-transform: capitalize;
     transition: all 500ms ease;
     cursor: pointer;
     z-index: 1;
+    text-decoration: none;
 }
 
 .theme-btn:hover:after {
@@ -198,7 +199,7 @@ button.close {
     height: 100%;
     width: 100%;
     content: "";
-    background-color: #006834;
+    background-color: var(--primary);
     border-radius: 30px;
     transform: scale(0, 1);
     transform-origin: top right;
