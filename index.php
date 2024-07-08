@@ -311,7 +311,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="row gy-4 mt-4">
+		<div class="row gy-4">
 			<div class="col-md-3">
 				<div class="profile-box">
 					<img src="./assets/images/gallery-1.webp" class="img-fluid">
