@@ -8,6 +8,9 @@
     --grey: #eee;
 }
 p{font-size: 19px}
+a {
+    text-decoration: none;
+}
 .text-primary{
 	color: var(--primary)!important;
 }
@@ -237,7 +240,7 @@ section.banner {
     text-decoration: none;
     color: #fff;
 }
-.escort-listing{
+.escort-listing, .escorts-lists{
     padding: 50px 0;
 }
 .profile-box {
@@ -270,4 +273,30 @@ section.banner {
     font-size: 1.6rem;
     background-color: #33EB00;
     color: var(--white);
+}
+.area-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+.area-list li {
+    list-style: none;
+    text-align: center;
+    width: 18%;
+}
+.escorts-location{
+    padding: 50px 0;
+    background: var(--grey);
+}
+.area-list li a {
+    padding: 20px;
+    background: var(--primary);
+    gap: 20px;
+    display: grid;
+    color: #fff;
+    border-radius: 0 15px;
+}
+.area-list li a:hover {
+    background: var(--secondary);
 }
