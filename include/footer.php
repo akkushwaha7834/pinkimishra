@@ -175,9 +175,15 @@
 
 <div class="nowcalling">
    <div class="lcol">
-      <a href="tel:+911234567890"> Call Now</a></div>
-<div class="rcol"><a href="#"> WhatsApp</a></div>
-
+      <a href="tel:+911234567890">
+         Call Now
+      </a>
+   </div>
+   <div class="rcol">
+      <a href="#">
+         WhatsApp
+      </a>
+   </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://lasik.tyuts.in/js/jquery.min.js"></script>
