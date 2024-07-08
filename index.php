@@ -274,4 +274,150 @@
 		</div>
 	</div>
 </section>
+
+<section class="escorts-list">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-md-8">
+				<h3>
+					See Genuine Call Girls in Delhi with Real Photos
+				</h3>
+				<p>
+					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
+				</p>
+				<p>
+					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
+				</p>
+				<p>
+					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
+				</p>
+			</div>
+			<div class="col-md-4">
+				<img src="./assets/images/gallery-1.webp" class="img-fluid">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="escort-listing">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h3>
+					Choose Charmiming Delhi Call Girls from Our Girl Profile List
+				</h3>
+				<p>
+					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
+				</p>
+			</div>
+		</div>
+		<div class="row gy-4 mt-4">
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="profile-box">
+					<img src="./assets/images/gallery-1.webp" class="img-fluid">
+					<div class="pro-detail">
+                        <h5>Roshni Goyal</h5>
+                        <h5>Age: 21 Years</h5>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <?php include_once('./include/footer.php') ?>
