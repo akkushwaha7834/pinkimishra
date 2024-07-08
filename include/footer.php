@@ -109,12 +109,6 @@
 <div class="modal fade" id="myModal" role="dialog">
    <div class="modal-dialog modal-lg">
       <div class="modal-content">
-         <!-- Modal Header -->
-         <div class="modal-header">
-            <h4 class="modal-title">Request an Appointment</h4>
-            <button class="close" data-dismiss="modal" type="button">&times;</button>
-         </div>
-         <!-- Modal body -->
          <div class="modal-body bookform">
             <div class="main-gallery-caption">
                <div class="container">
