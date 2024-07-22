@@ -2,17 +2,7 @@
 
 <section class="banner">
 <img src="https://www.shwetamalik.in/assets/images/backgrounds/banner.webp" class="img-fluid" width="100%">
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<div class="banner-content">
-				<h1>
-					Lucknow Escorts <br>100 % Satisfaction For Client
-				</h1>
-			</div>
-		</div>
-	</div>
-</div>
+
 </section>
 <section class="intro">
 	<div class="container">
@@ -39,19 +29,20 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="text-primary">
+				<h3 class="" style="color: #d3af56;">
 					Gallery of Our Finest Call Girls in Delhi
 				</h3>
-				<p>
+				<p class="text-white">
 					Welcome to the secret and glittery world of Delhi storing sheer gladness and satisfaction for you. In the dark stressed and strained life, we are the only nucleus centring peace of mind and happiness for males. 
 				</p>
 			</div>
 		</div>
 		<div class="row mt-3 gy-4">
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -61,9 +52,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -73,9 +65,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -85,9 +78,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -97,9 +91,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -109,9 +104,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -121,9 +117,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -133,9 +130,10 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising">
+				<div class="escorts-lising text-center">
+					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
 					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid main-image">
+						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
 						<div class="image-box-with-text">
 			              <h4 class="text-center mb-0">
 			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
@@ -285,7 +283,7 @@
 	</div>
 </section>
 
-<section class="escorts-list">
+<section class="escorts-lists">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-8">
@@ -430,14 +428,14 @@
 	</div>
 </section>
 
-<section class="escorts-location">
+<section class="escorts-list">
 	<div class="container">
 		<div class="row gy-4">
 			<div class="col-md-12">
-				<h4>
+				<h4 style="color: #d3af56;">
 					Select Your Escort Girls With locations
 				</h4>
-				<p>
+				<p class="text-white">
 					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
 				</p>
 				<ul class="area-list mt-4">

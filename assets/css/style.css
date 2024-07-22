@@ -73,25 +73,11 @@ a {
 }
 .escorts-list{
     padding: 50px 0;
-    background: #B7008D;
-}
-.escorts-lising .main-image{
-    background: var(--white);
-    padding: 10px;
-    border-radius: 20px;
+    background:  rgb(59,1,1);
 }
 .image-box-with-text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--primary);
-    gap: 10px;
-    padding: 15px 0;
-    margin: 0 20px;
-    margin-top: -30px;
-    z-index: 99;
-    position: relative;
-    border-radius: 20px;
+    padding: 10px 0;
+    background: var(--secondary);
 }
 .main-gallery-pop-table table tr:nth-child(odd) {
     background: #eee;
@@ -285,7 +271,7 @@ section.banner {
     text-align: center;
     width: 18%;
 }
-.escorts-location{
+.escorts-location, .escorts-lists{
     padding: 50px 0;
     background: var(--grey);
 }
@@ -313,4 +299,8 @@ section.banner {
     -webkit-text-fill-color: transparent;
     font-size: 50px;
     font-weight: 800;
+}
+.escorts-lising{
+    padding: 10px 0 0;
+    border: 1px solid #fff;
 }
