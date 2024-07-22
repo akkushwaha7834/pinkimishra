@@ -1,8 +1,7 @@
 <?php include_once('./include/header.php') ?>
 
 <section class="banner">
-<img src="https://www.shwetamalik.in/assets/images/backgrounds/banner.webp" class="img-fluid" width="100%">
-
+	<img src="assets/images/banner.webp" class="img-fluid" width="100%">
 </section>
 <section class="intro">
 	<div class="container">
