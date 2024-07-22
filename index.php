@@ -1,8 +1,18 @@
 <?php include_once('./include/header.php') ?>
 
 <section class="banner">
-<!-- <img src="https://img.lovepik.com/background/20211022/large/lovepik-taobao-tmall-e-commerce-banner-background-image_500603827.jpg" class="img-fluid" width="100%"> -->
 <img src="https://www.shwetamalik.in/assets/images/backgrounds/banner.webp" class="img-fluid" width="100%">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="banner-content">
+				<h1>
+					Lucknow Escorts <br>100 % Satisfaction For Client
+				</h1>
+			</div>
+		</div>
+	</div>
+</div>
 </section>
 <section class="intro">
 	<div class="container">

@@ -73,7 +73,7 @@ a {
 }
 .escorts-list{
     padding: 50px 0;
-    background: var(--grey);
+    background: #B7008D;
 }
 .escorts-lising .main-image{
     background: var(--white);
@@ -291,12 +291,26 @@ section.banner {
 }
 .area-list li a {
     padding: 20px;
-    background: var(--primary);
+    background: linear-gradient(90deg, rgba(255, 0, 255) 0%, rgb(6 178 125) 51%, rgb(39 70 144) 100%);
     gap: 20px;
     display: grid;
     color: #fff;
     border-radius: 0 15px;
 }
 .area-list li a:hover {
-    background: var(--secondary);
+    background: var(--primary);
+}
+
+.banner-content h1{
+    position: absolute;
+    z-index: 1;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right, #ffffff, #b7018d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    font-weight: 800;
 }
