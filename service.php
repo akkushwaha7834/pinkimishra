@@ -50,6 +50,6 @@
     </div>
 </section>
 <section class="image-section">
-	<img src="assets/images/back-1.webp" class="img-fluid" width="100%">
+	<img src="assets/images/banner-footer.webp" class="img-fluid" width="100%">
 </section>
 <?php include_once('./include/footer.php') ?>
