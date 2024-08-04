@@ -1,15 +1,15 @@
 <?php include_once('./include/header.php') ?>
 
 <section class="banner">
-	<img src="assets/images/banner.webp" class="img-fluid" width="100%">
+	<img src="assets/images/inner-1.webp" class="img-fluid" width="100%">
 </section>
 <section class="intro">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-7">
-				<h2 class="text-primary">
+				<h1 class="text-primary">
 					Hire 24/7 Available Top Delhi Call Girls At Cheap Rates 
-				</h2>
+				</h1>
 				<p>
 					Welcome to the secret and glittery world of Delhi storing sheer gladness and satisfaction for you. In the dark stressed and strained life, we are the only nucleus centring peace of mind and happiness for males. We are the world of current sensation, the Delhi Call Girl, and the divas promising intimate and overall bliss to all males / females needing services. Trust us, the world of first-class females and get your every need and desire turned true. We are the agency of professional unit managing and extending intimate services within the guards of safety and privacy.
 				</p>
@@ -36,110 +36,66 @@
 				</p>
 			</div>
 		</div>
-		<div class="row mt-3 gy-4">
+		<div class="row mt-3 gy-4 text-center">
 			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
+				<a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">
+					<div class="escorts-lising text-center">
+						<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
+						<div class="images-box">
+							<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
+							<div class="image-box-with-text">
+			             		<h4 class="text-center mb-0">
+			               	 		Awantika
+			              		</h4>
+			            	</div>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
+				<a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">
+					<div class="escorts-lising text-center">
+						<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
+						<div class="images-box">
+							<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
+							<div class="image-box-with-text">
+			             		<h4 class="text-center mb-0">
+			               	 		Awantika
+			              		</h4>
+			            	</div>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
+				<a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">
+					<div class="escorts-lising text-center">
+						<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
+						<div class="images-box">
+							<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
+							<div class="image-box-with-text">
+			             		<h4 class="text-center mb-0">
+			               	 		Awantika
+			              		</h4>
+			            	</div>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
+				<a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">
+					<div class="escorts-lising text-center">
+						<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
+						<div class="images-box">
+							<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
+							<div class="image-box-with-text">
+			             		<h4 class="text-center mb-0">
+			               	 		Awantika
+			              		</h4>
+			            	</div>
+						</div>
 					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="escorts-lising text-center">
-					<img src="assets/images/booknow.webp" class="img-fluid" width="80%">
-					<div class="images-box">
-						<img src="assets/images/gallery-1.webp" class="img-fluid"  width="100%">
-						<div class="image-box-with-text">
-			              <h4 class="text-center mb-0">
-			                <a data-target="#myModal" data-toggle="modal" type="button" class="text-decoration-none text-white">Awantika</a>
-			              </h4>
-			            </div>
-					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>

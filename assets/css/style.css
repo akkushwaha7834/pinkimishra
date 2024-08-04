@@ -7,7 +7,6 @@
     --black: #000;
     --grey: #eee;
 }
-p{font-size: 19px}
 a {
     text-decoration: none;
 }
@@ -104,6 +103,7 @@ button.close {
     top: 0;
     left: 0;
     z-index: 999;
+    background: #b7018d;
 }
 .navbar-brand{
     transition-duration: .2s;
@@ -305,5 +305,8 @@ section.banner {
     border: 1px solid #fff;
 }
 .about-intro{
+    padding: 50px 0;
+}
+.services-section{
     padding: 50px 0;
 }
