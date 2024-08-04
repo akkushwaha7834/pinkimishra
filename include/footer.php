@@ -115,7 +115,7 @@
                  <div class="row">
                    <div class="col-md-6">
                      <div class="main-gallery-img-pop">
-                  <img src="assets/images/gallery-1.webp" class="img-fluid" alt="call girl service in Delhi" title="call girl service in Delhi">
+                  <img src="assets/images/sweety.webp" class="img-fluid" alt="call girl service in Delhi" title="call girl service in Delhi">
                 </div>
                    </div>
                    <div class="col-md-6">
@@ -161,6 +161,7 @@
                   </table>
                   <div class="cta mt-3">
                      <a href="#" class="theme-btn">Call Now <i class="fa fa-phone" aria-hidden="true"></i></a>
+                     <a href="#" class="theme-btn bttn">WhatsApp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
                   </div>
                </div>
                    </div>

@@ -77,6 +77,7 @@ a {
 .image-box-with-text {
     padding: 10px 0;
     background: var(--secondary);
+    border-radius: 0 0 10px 10px;
 }
 .main-gallery-pop-table table tr:nth-child(odd) {
     background: #eee;
@@ -164,12 +165,10 @@ button.close {
     z-index: 1;
     text-decoration: none;
 }
-
 .theme-btn:hover:after {
     transform: scale(1, 1);
     transform-origin: bottom left;
 }
-
 .theme-btn:after {
     position: absolute;
     left: 0;
@@ -184,8 +183,26 @@ button.close {
     transform-origin: top right;
     transition: transform 500ms;
 }
-
 .theme-btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.theme-btn.bttn i{
+    background:#06b27d;
+}
+.theme-btn.bttn{
+    color: #06b27d;
+    border: 1px solid #06b27d;
+}
+.theme-btn.bttn:after{
+    background-color: #06b27d;
+    color: var(--white);
+}
+.theme-btn.bttn:hover:after {
+    transform: scale(1, 1);
+    transform-origin: bottom left;
+}
+.theme-btn.bttn:hover {
     color: #fff;
     text-decoration: none;
 }
@@ -303,6 +320,7 @@ section.banner {
 .escorts-lising{
     padding: 10px 0 0;
     border: 1px solid #fff;
+    border-radius: 10px;
 }
 .about-intro{
     padding: 50px 0;
