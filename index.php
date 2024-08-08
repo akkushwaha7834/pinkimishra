@@ -238,20 +238,20 @@
 	</div>
 </section>
 
-<section class="escorts-lists">
+<section class="escorts-list">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-8">
-				<h3>
+				<h3 style="color: #d3af56;">
 					See Genuine Call Girls in Delhi with Real Photos
 				</h3>
-				<p class="intro-para">
+				<p class="intro-para text-white">
 					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
 				</p>
-				<p class="intro-para">
+				<p class="intro-para text-white">
 					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
 				</p>
-				<p class="intro-para">
+				<p class="intro-para text-white">
 					Welcome to the gallery page of Model Call Girls in Delhi. Here you will find beautiful models who are seeking for love with gentlemen and young boys. If you are finding your dream girl in Delhi then you are at right place. See the genuine profile pictures of our models and get your suitable girl to have some romantic moments with her. We have a large variety of Independent Delhi Call Girls just to give you the amazing call girl experiences with us. All the models are 100% real and genuine. They are well trained ladies who know each and everything about sexual pleasure.
 				</p>
 			</div>
